@@ -49,7 +49,7 @@ Citation
 
 If you use this toolbox in your research, please cite:
 
-[Authors], Breakthrough Curve Prediction Using Ideal Adsorbed Solution Theory, Industrial & Engineering Chemistry Research, 2025.
+ Breakthrough Curve Prediction Using Ideal Adsorbed Solution Theory, Industrial & Engineering Chemistry Research, 2025.
 
 Contact
 
